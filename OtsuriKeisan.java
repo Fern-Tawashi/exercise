@@ -1,7 +1,7 @@
 class OtsuriKeisan {
 	public static void main(String[] args) {
 		/** 金種 */
-		int[] kinsyu = {10000, 5000, 1000, 500, 100, 50, 10, 5, 1}; // おつりとして優先して返却したい金種順に並べてあります
+		int[] kinsyu = {10000, 5000, 1000, 500, 100, 50, 10, 5, 1}; // 大きい金種順で
 
 		/** 売上 */
 		int uriage = 13832;
